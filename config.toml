@@ -1,0 +1,12 @@
+baseURL = '/'
+languageCode = 'fr-CH'
+title = 'Steve a light on'
+themesDir = "themes"
+theme = "hugo-winston-theme"
+[params]
+  google_analytics_id = ""
+  showAuthorOnHomepage = true
+  showAuthorOnPosts = false
+  showPostsOnHomepage = false
+  addFrame = true
+  addDot = true
