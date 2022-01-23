@@ -39,7 +39,10 @@ You can usually find it in this way on the internet:
 ![Ikigai example](https://static.wixstatic.com/media/e540ff_4c9685de770e48cbbea9eb48dd24b67c~mv2.jpeg/v1/fill/w_666,h_628,al_c,q_85,usm_0.66_1.00_0.01/1_qNNzYd3SE1Z09d_IaJOdGA.webp)
 
 But in order to make it easier to read, I present you mine in this format:
-![my Ikigai](https://github.com/Smettraux/Hugo/tree/main/resources/static/images/myIkigai.png)
+![my Ikigai](https://github.com/Smettraux/Hugo/blob/master/static/images/myIkigai.png?raw=true)
+
+I first thought I'd try and work in something UX related, as I really love story telling, and how it helps bringing to life a concept. As I went deeper in researching level design and game development, I found that I'd like to stick to the web development side of things, to ensure my formation wouldn't go to waste as I progress as a developer.
+
 
 ### Skills
 >I love **programming**, and am becoming better at it every day.
@@ -68,27 +71,10 @@ But in order to make it easier to read, I present you mine in this format:
 
 
 ### So ?
-So I choose to read and write about front-end development, mixing UX & UI design with programming.
+So I choose to read and write about front-end development, mixing UX & UI design with programming, at least for now. I sure hope that I'll find a stable enough job in the near future for me to continue working and learning more about level design and game development on the side.
+
+## Go find my latest blog posts !
+Now you know me a little bit better, I hope you'll stick around and [read my blog](/posts/) !
 
 
 
-**invita insidiae** Amymonen, semper respiciens vocato, illis! Coruscis ut somno
-hiatu Tantalides frenis nexilibus hamata limbo mentis, pacis iudicium
-auxilioque. Genus dolori, me ira hae inpediunt tellus, nascendi Boreas!
-Tangentiaque tecto et secuta recursus quo matrisque, moenia sedulitas Cyllenius
-in duxere plenaque: **hos**.
-
-1. Olim pulvere
-2. Verus ego ovantem mihi
-3. Tenuit erat semina superari
-4. Dabis natis hoc genu in quidem dumque
-
-Per tenuata [potiora](#inmeritae-discordemque-iterum) dedit caelo admota
-iniustus decipere do loca multa non parat. Ingratos his ut inde credite sensit
-sorte. Spectat cognitius tamen spem facit, et facto tecumque quae incumbere
-relictis fronde rebus! Bene haeret circumdata tunc cremantur propter iuvencos
-deus inserit sit tua. Pompa non precor procumbit inania lacrimas sacra credetis:
-Oceano, femina?
-
-Bacchantum neque. Humum ut violasse quam inmotos! Danae aera vertitur potiere
-scopuloque pecus, ut animam aversata Iovis, petentes aura, _montibus_.
