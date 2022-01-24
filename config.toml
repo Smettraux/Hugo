@@ -1,8 +1,9 @@
-baseURL = "https://smettraux.github.io/Hugo/"
+baseURL = "https://smettraux.github.io/Hugo"
 languageCode = "en-us"
 title = "Steve a light on"
 themesDir = "themes"
 theme = "hugo-winston-theme"
+canonifyURLs = true
 
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
