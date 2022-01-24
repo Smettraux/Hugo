@@ -1,7 +1,7 @@
 ---
 title: Is UX Design a separate practice from Game Design?
 date: 2022-01-23
-description: 'CHANGE ME'
+description: 'How does UX design improves video game mechanics, and how is it linked to my Ikigai ?'
 image:
 ---
 
@@ -34,3 +34,7 @@ We can then say for sure that game design and UX are two different things, that 
 Game design defines rules and mechanics, balances gameplay and creates things to do in the game, as UX makes the bridge between the player and the game. Ux thinks about the user journey, and is a user-centerd design process.
 
 With those informations, I can confidently say that UX is something that I will pursue in the future, as a way to create better experiences on the web until the day I can reach the game industry.
+
+#### Sources
+- [UX Design](https://uxdesign.cc/)
+- [UX & Game design - source article](https://blog.prototypr.io/is-ux-design-a-separate-practice-from-game-design-97ae1a03e61c)
