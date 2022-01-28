@@ -20,10 +20,23 @@ paginate = 3
   twitter_handle = ""
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
-  showPostsOnHomepage = false
+  showPostsOnHomepage = true
   addFrame = true
   addDot = true
 
-  [taxonomies]
+[taxonomies]
   category = 'categories'
   tag = 'tags'
+
+[menu]
+  [[menu.main]]
+    identifier = 'categories'
+    name = 'Categories'
+    url = '/categories/'
+    weight = 1
+
+  [[menu.main]]
+    identifier = 'tags'
+    name = 'Tags'
+    url = '/tags/'
+    weight = 2

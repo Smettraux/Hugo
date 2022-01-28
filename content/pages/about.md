@@ -25,7 +25,8 @@ Here you'll find some of my thoughts, and some of my projects. I'll try and keep
 ## Steve a light on project
 This blog project is a work in progess, but started as a project for one of my fifth semester engineering class at HEIG-VD.
 
-One of the goal of this project was to set up a HUGO blog, to learn how to use it. The other goal was to find inspiration on what I wanted my future work as an engineer to be. For that, we were asked to define our future profession based on our personnal skillset and interests, and then write some articles about what we found on the subject.
+One of the goal of this project was to set up a HUGO blog, and to keep track of our technology monitoring reports.
+The other goal was to find inspiration on what I wanted my future work as an engineer to be. For that, we were asked to define our future profession based on our personnal skillset and interests, and then write some articles about what we found on the subject.
 
 ### Interests
 After a long inner monologue, I found I liked to work with code. But I also am really interested in user experience and experience design. I thought I could try to combine these two to find the job title that best suit me.
