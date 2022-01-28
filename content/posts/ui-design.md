@@ -4,10 +4,10 @@ date: 2022-01-24
 description: 'Usability and the utility, not the visual design, determine the success or failure of a web-site.'
 image: images/Smettraux_150.jpeg
 categories:
-- UI / UX
+- UI UX
 tags:
 - Web Design
-- Design
+- UI Design
 - Usability
 ---
 

@@ -4,7 +4,7 @@ date: 2022-01-23
 description: 'How does UX design improves video game mechanics, and how is it linked to my Ikigai ?'
 image: https://miro.medium.com/max/1400/1*EMURbYzLRMgudGCsOchIoA.jpeg
 categories:
-- UI / UX
+- UI UX
 tags:
 - Video Game
 - Game Design
