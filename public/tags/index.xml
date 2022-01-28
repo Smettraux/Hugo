@@ -2,9 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Steve a light on</title>
-    <link>/tags/</link>
+    <link>https://smettraux.github.io/Hugo/tags/</link>
     <description>Recent content in Tags on Steve a light on</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://smettraux.github.io/Hugo/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design</title>
+      <link>https://smettraux.github.io/Hugo/tags/design/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://smettraux.github.io/Hugo/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usability</title>
+      <link>https://smettraux.github.io/Hugo/tags/usability/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://smettraux.github.io/Hugo/tags/usability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Design</title>
+      <link>https://smettraux.github.io/Hugo/tags/web-design/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://smettraux.github.io/Hugo/tags/web-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game Design</title>
+      <link>https://smettraux.github.io/Hugo/tags/game-design/</link>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://smettraux.github.io/Hugo/tags/game-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UX Design</title>
+      <link>https://smettraux.github.io/Hugo/tags/ux-design/</link>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://smettraux.github.io/Hugo/tags/ux-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Game</title>
+      <link>https://smettraux.github.io/Hugo/tags/video-game/</link>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://smettraux.github.io/Hugo/tags/video-game/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

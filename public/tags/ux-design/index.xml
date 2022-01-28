@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UX Design on Steve a light on</title>
+    <link>https://smettraux.github.io/Hugo/tags/ux-design/</link>
+    <description>Recent content in UX Design on Steve a light on</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://smettraux.github.io/Hugo/tags/ux-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Is UX Design a separate practice from Game Design?</title>
+      <link>https://smettraux.github.io/Hugo/posts/is-ux-design-different-from-game-design/</link>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://smettraux.github.io/Hugo/posts/is-ux-design-different-from-game-design/</guid>
+      <description>As video games have been more and more popular, the demand for more user-friendly experiences grew significantly over the years. Thus, UX designers have been the driving force behind the evolution of the video game industry.
+Although UX existed since the early days of the Internet (and even before with Taylorism), it&amp;rsquo;s been about 10 years thhe video game industry picked up the practice.
+Now, what is exactly UX design ?</description>
+    </item>
+    
+  </channel>
+</rss>

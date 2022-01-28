@@ -7,7 +7,7 @@ menu:
 ---
 
 ## Hi
-I'm **Steve Mettraux**. I'm a media engineer from Switzerland. I studied web development, digital marketing strategy, brand developpment and UI/UX design at the HEIG-VD, in Yverdon-les-Bains.
+I'm **Steve Mettraux**. I'm a media engineer from Switzerland. I studied web development, digital marketing strategy, brand development and UI/UX design at the HEIG-VD, in Yverdon-les-Bains.
 
 I'm currently working as a Digital Expert @[la Botte Secrète agency](https://www.bottesecrete.agency/), and as a freelance web developer.
 

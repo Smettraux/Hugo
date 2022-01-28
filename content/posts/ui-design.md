@@ -3,6 +3,12 @@ title: How to think and design user interfaces
 date: 2022-01-24
 description: 'Usability and the utility, not the visual design, determine the success or failure of a web-site.'
 image: images/Smettraux_150.jpeg
+categories:
+- UI / UX
+tags:
+- Web Design
+- Design
+- Usability
 ---
 
 If you're working on the design of a website or web page, keep in mind that  the beauty of  visual style is not the deciding factor for success.

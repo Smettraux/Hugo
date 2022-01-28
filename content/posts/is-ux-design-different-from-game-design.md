@@ -2,10 +2,16 @@
 title: Is UX Design a separate practice from Game Design?
 date: 2022-01-23
 description: 'How does UX design improves video game mechanics, and how is it linked to my Ikigai ?'
-image:
+image: https://miro.medium.com/max/1400/1*EMURbYzLRMgudGCsOchIoA.jpeg
+categories:
+- UI / UX
+tags:
+- Video Game
+- Game Design
+- UX Design
 ---
 
-![UX & video games](https://miro.medium.com/max/1400/1*EMURbYzLRMgudGCsOchIoA.jpeg)
+
 
 As video games have been more and more popular, the demand for more user-friendly experiences grew significantly over the years.
 Thus, UX designers have been the driving force behind the evolution of the video game industry.
