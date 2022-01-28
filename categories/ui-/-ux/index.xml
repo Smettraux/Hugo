@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UI / UX on Steve a light on</title>
+    <link>https://smettraux.github.io/Hugo/categories/ui-/-ux/</link>
+    <description>Recent content in UI / UX on Steve a light on</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://smettraux.github.io/Hugo/categories/ui-/-ux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to think and design user interfaces</title>
+      <link>https://smettraux.github.io/Hugo/posts/ui-design/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://smettraux.github.io/Hugo/posts/ui-design/</guid>
+      <description>If you&amp;rsquo;re working on the design of a website or web page, keep in mind that the beauty of visual style is not the deciding factor for success.
+ In fact, Vitaly Friedman, co-creator of the smashing magazine, said that &amp;ldquo;usability and the utility, not the visual design, determine the success or failure of a web-site.&amp;rdquo;
+ Unfortunately, designers tend to conceive trendy looking interfaces, without considering the user&amp;rsquo;s needs. This is a problem, because it leads to a quantity of complex and inappropriate user intefaces.</description>
+    </item>
+    
+    <item>
+      <title>Is UX Design a separate practice from Game Design?</title>
+      <link>https://smettraux.github.io/Hugo/posts/is-ux-design-different-from-game-design/</link>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://smettraux.github.io/Hugo/posts/is-ux-design-different-from-game-design/</guid>
+      <description>As video games have been more and more popular, the demand for more user-friendly experiences grew significantly over the years. Thus, UX designers have been the driving force behind the evolution of the video game industry.
+Although UX existed since the early days of the Internet (and even before with Taylorism), it&amp;rsquo;s been about 10 years thhe video game industry picked up the practice.
+Now, what is exactly UX design ?</description>
+    </item>
+    
+  </channel>
+</rss>
