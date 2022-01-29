@@ -6,7 +6,7 @@ image: https://akm-img-a-in.tosshub.com/indiatoday/images/story/202012/chris-rie
 categories:
 - Framework & Tools
 tags:
-- Web Development
+- Experimentation
 - IDE
 - Plug-ins
 ---

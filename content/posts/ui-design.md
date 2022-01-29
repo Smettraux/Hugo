@@ -6,7 +6,7 @@ image: images/Smettraux_150.jpeg
 categories:
 - UI UX
 tags:
-- Web Design
+- Web Development
 - UI Design
 - Usability
 ---
