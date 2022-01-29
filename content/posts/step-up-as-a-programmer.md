@@ -1,7 +1,7 @@
 ---
 title: Step-up as a programmer
 date: 2022-01-29
-description: ''
+description: 'As a newbie programmer, I know I have many flaws and bad practices that I wand to get rid of. And this comes through learning from experienced developpers, reviewing old code and always trying to improve.'
 image: https://i.redd.it/b78qc9xvx7f21.jpg
 categories:
 - Development
