@@ -11,9 +11,11 @@ tags:
 - Open Source
 ---
 
+As a young developer, I use GitHub quite a lot.
+I first started working with it for school projects, to share code  with other students. Today, I find myself using it quite often, would it be to share code, work on personal projects, or discover new features and ways to use certain frameworks.
 
+In the past year, I learned a lot about JavaScript, and different frameworks thanks to the GitHub and Open Source community.
 
+I now hope to be able to share my knowledge with the world, and to help other developers to learn new things. But I won't be able to do so before I finish my bachelor degree.
 
-
-#### Sources
--
+Id'like to help review code sometimes, and become a real contributor to the community.
