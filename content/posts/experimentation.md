@@ -2,7 +2,7 @@
 title: Experimenting Free Frontend
 date: 2022-01-29
 description: ''
-image: https://github.com/Smettraux/Hugo/tree/master/static/images/botte-cordiale-v2-front.png
+image: https://github.com/Smettraux/Hugo/blob/master/static/images/botte-cordiale-v2-front.png?raw=true
 categories:
 - Development
 tags:
@@ -21,8 +21,11 @@ So this is the perfect occasion: try to fit what I find on free frontend on [thi
 The goal is to make the website look like the one on the cover picture, while trying to find useful features on Free Frontend.
 
 For reference, the website looks like this for the time being:
-![botte-cordiale](https://github.com/Smettraux/Hugo/tree/master/static/images/botte-cordiale-v1-front.png)
+![botte-cordiale](https://github.com/Smettraux/Hugo/blob/master/static/images/botte-cordiale-v1-front.png?raw=true)
+
 ## Expected results
+I think I'll find most of what I need for the animations and the "About" card that has to be implemented.
+I'll probably have to clean up the code to take only the bits and pieces useful for my project, as it's never short, clean snippets as you could find on [code drops](https://codedrops.io/).
 
 ## Actual results
 
