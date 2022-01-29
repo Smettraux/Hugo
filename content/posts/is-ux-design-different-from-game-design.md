@@ -39,6 +39,7 @@ We can then say for sure that game design and UX are two different things, that 
 
 Game design defines rules and mechanics, balances gameplay and creates things to do in the game, as UX makes the bridge between the player and the game. Ux thinks about the user journey, and is a user-centerd design process.
 
+### Conclusion
 With those informations, I can confidently say that UX is something that I will pursue in the future, as a way to create better experiences on the web until the day I can reach the game industry.
 
 #### Sources
