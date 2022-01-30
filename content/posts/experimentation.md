@@ -37,7 +37,11 @@ I now have to add some animations to the buttons and a card that pops up when I 
 I should look like something like this:
 ![botte-cordiale-v2-about](https://github.com/Smettraux/Hugo/blob/master/static/images/botte-cordiale-v2-about.png?raw=true)
 
-As I
+As I said, I'm going to try and find some useful features on Free Frontend. On the homepage, the website presents a list of links to the latest articles and tutorials, as well as a menu of different technologies.
+
+![FreeFrontend Menu](https://github.com/Smettraux/Hugo/blob/master/static/images/freefrontend-home.png?raw=true)
+
+
 ## Actual results
 
 ## Conclusion
