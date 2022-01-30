@@ -46,8 +46,17 @@ I chose the CSS link, and scrolls to the "Essentials" section. I then looked thr
 ![FreeFrontend cards collection](https://github.com/Smettraux/Hugo/blob/master/static/images/freefrontend-css-cards-collections.png?raw=true)
 ![FreeFrontend blog-card](https://github.com/Smettraux/Hugo/blob/master/static/images/freefrontend-css-blog-card.png?raw=true)
 
+I now find myself on a CodePen page, with about a hundred of line of CSS. Looks way easier to do than I first thought. I'll still have to adapt everything to my project. Time to get my hands dirty !
+
 ## Actual results
+After very little tweaking, I managed to make the website look like the one on the cover picture. I found it really easy to implement this card feature, even tho I had to polish it to make it look part of my website design.
+
+![botte-cordiale-v2](https://github.com/Smettraux/Hugo/blob/master/static/images/botte-cordiale-v2-card.png?raw=true)
+
+While looking, I found lots of other cool features, like [awesome logout buttons] I can't wait to try and implement in the future.
+Free Frontend is a goldmine in terms of fun and useful frontend interactions. I really love it, because it helps me imagine features that I would never have thought of without it.
 
 ## Conclusion
  What I learned from this experiment:
+
  Reusing the methodology somewhere.
