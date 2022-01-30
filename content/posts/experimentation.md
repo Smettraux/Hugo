@@ -41,6 +41,10 @@ As I said, I'm going to try and find some useful features on Free Frontend. On t
 
 ![FreeFrontend Menu](https://github.com/Smettraux/Hugo/blob/master/static/images/freefrontend-home.png?raw=true)
 
+I chose the CSS link, and scrolls to the "Essentials" section. I then looked through different lists of 'cards' elements and found one somewhat similar to what I was looking for.
+
+![FreeFrontend cards collection](https://github.com/Smettraux/Hugo/blob/master/static/images/freefrontend-css-cards-collections.png?raw=true)
+![FreeFrontend blog-card](https://github.com/Smettraux/Hugo/blob/master/static/images/freefrontend-css-blog-card.png?raw=true)
 
 ## Actual results
 
