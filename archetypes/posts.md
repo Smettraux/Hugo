@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 description: 'ola '

@@ -27,6 +27,17 @@ For reference, the website looks like this for the time being:
 I think I'll find most of what I need for the animations and the "About" card that has to be implemented.
 I'll probably have to clean up the code to take only the bits and pieces useful for my project, as it's never short, clean snippets as you could find on [code drops](https://codedrops.io/).
 
+## What I did
+I started by adjusting the layout and CSS to what I was asked, and it became something pretty similar.
+![botte-cordiale-v1.5](https://github.com/Smettraux/Hugo/blob/master/static/images/botte-cordiale_v2_a.png?raw=true)
+
+
+I now have to add some animations to the buttons and a card that pops up when I click on the "About"(A propos) button.
+
+I should look like something like this:
+![botte-cordiale-v2-about](https://github.com/Smettraux/Hugo/blob/master/static/images/botte-cordiale-v2-about.png?raw=true)
+
+As I
 ## Actual results
 
 ## Conclusion
