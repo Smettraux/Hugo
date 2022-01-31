@@ -57,6 +57,8 @@ While looking, I found lots of other cool features, like [awesome logout buttons
 Free Frontend is a goldmine in terms of fun and useful frontend interactions. I really love it, because it helps me imagine features that I would never have thought of without it.
 
 ## Conclusion
- What I learned from this experiment:
+ I think Free Frontend is a great resource for frontend developers, and I'm looking forward to trying it out on more projects.
 
- Reusing the methodology somewhere.
+It really helped me implement the feature I needed fairly quickly, and I even learned some things while at it.
+
+On the other hand, it may have been overkill for this project. But I'm pretty sure that would be great to use this tool as innspiration for the UI, over using it as a fix mid project.
